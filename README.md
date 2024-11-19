@@ -9,7 +9,7 @@
 # Sommaire
 * _[Introduction](#)_
 * _[About me](#A-propos-de-moi)_
-* _[Skills](##Currently-learning-on:)_
+* _[Skills](#Currently-learning-on:)_
 * _[Projets](#projets)_
 * _[Contact](#contact)_
 
