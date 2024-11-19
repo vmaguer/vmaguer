@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Victor Maguer</h1>
 <h3 align="center">Compunteur Science student from France</h3>
 
-- 🔭 I’m currently working on **scrabble**
+- 🔭 I’m currently working on **ray tracing**
 
 - 🌱 I’m currently learning **in IUT informatique**
 
 - 📫 How to reach me **victor.maguer124@gmail.com**
 # Sommaire
-* _[Introduction](#pignol-axel---portfolio)_
+* _[Introduction](#)_
 * _[About me](#A-propos-de-moi)_
 * _[Skills](##Currently-learning-on:)_
 * _[Projets](#projets)_
-* _[Tools](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
 * _[Contact](#contact)_
 
 ## A propos de moi
