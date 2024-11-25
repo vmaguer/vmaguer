@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning **in IUT informatique**
 
 - 📫 How to reach me **victor.maguer124@gmail.com**
-# Sommaire
+# Summary
 * _[Introduction](#)_
 * _[About me](#A-propos-de-moi)_
 * _[Skills](#Currently-learning-on:)_
 * _[Projets](#projets)_
 * _[Contact](#contact)_
 
-## A propos de moi
+## About me
 - 🌍 Based in Limoges France <br>
 - 💼 First-year student in Computer Science at BUT (University Institute of Technology) <br>
 - 🎓 BUT in Computer Science and High School Diploma, specializing in NSI (Computer Science and Digital Sciences) and Mathematics <br>
